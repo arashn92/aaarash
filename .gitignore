@@ -11,7 +11,7 @@ interface Token {
     function balanceOf(address _a) external vi
     function transfer(address _to, uint _amt) exte
 
-cd $HOME
+cd $HOME j
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
